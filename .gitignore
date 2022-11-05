@@ -1,0 +1,15 @@
+
+augmented_data2/test/
+augmented_data2/train/
+augmented_data2/val/
+
+data2/images/
+data2/img2/
+data2/labels/
+data2/test/
+data2/train/
+data2/val/
+
+logs/
+
+recognition/dataset/

@@ -1,1 +1,10 @@
 https://www.researchgate.net/publication/321829624_Leaf_App_Leaf_recognition_with_deep_convolutional_neural_networks
+https://www.researchgate.net/publication/334770252_An_Accurate_System_for_Face_Detection_and_Recognition
+https://www.researchgate.net/publication/4060509_Automatic_acquired_domain_knowledge_for_ad_hoc_search_evaluated_results
+
+https://medium.com/swlh/haar-cascade-integral-image-a081c68e1c30
+(à ajouter sur l'annexe)
+
+*******************
+article utile :
+https://thescipub.com/pdf/jcssp.2019.395.415.pdf

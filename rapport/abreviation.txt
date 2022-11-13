@@ -1,0 +1,2 @@
+ LBPH (Local Binary Pattern Histogram).
+CNN

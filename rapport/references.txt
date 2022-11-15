@@ -1,10 +1,39 @@
 https://www.researchgate.net/publication/321829624_Leaf_App_Leaf_recognition_with_deep_convolutional_neural_networks
 https://www.researchgate.net/publication/334770252_An_Accurate_System_for_Face_Detection_and_Recognition
-https://www.researchgate.net/publication/4060509_Automatic_acquired_domain_knowledge_for_ad_hoc_search_evaluated_results
 
-https://medium.com/swlh/haar-cascade-integral-image-a081c68e1c30
-(à ajouter sur l'annexe)
 
-*******************
-article utile :
-https://thescipub.com/pdf/jcssp.2019.395.415.pdf
+********Reference of last article ********************
+
+Ahonen, Timo, Abdenour Hadid, and Matti Pietikainen. “Face description with local binary patterns: Application to face recognition.” IEEE transactions on pattern analysis and machine intelligence 28.12 (2006): 2037–2041.
+Ojala, Timo, Matti Pietikainen, and Topi Maenpaa. “Multiresolution gray-scale and rotation invariant texture classification with local binary patterns.” IEEE Transactions on pattern analysis and machine intelligence 24.7 (2002): 971–987.
+Ahonen, Timo, Abdenour Hadid, and Matti Pietikäinen. “Face recognition with local binary patterns.” Computer vision-eccv 2004 (2004): 469–481.
+LBPH OpenCV: https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#local-binary-patterns-histograms
+Local Binary Patterns: http://www.scholarpedia.org/article/Local_Binary_Patterns
+
+
+
+
+
+************
+titre : 1= 16
+
+
+
+
+***************************
+Structure :
+****
+Etat de l'art ------------------------> (des définitions + l'existant + critique de l'existant) [il faut ajouter des articles ] - décrire le liens entre sujet traité et existant 
+Formulation du problème théorique (Lumière , etc ...)
+
+Suite à la lecture de ce chapitre, le lecteur
+doit avoir compris la motivation pour le
+choix du sujet et son importance.
+
+
+
+
+contexte générale  ( planification - besoins fonctionnel et non fonctionnel - solution proposés - conclusion )
+Etude et Analyse ( Etude théorique )
+Outils et technologies  (juste les outils)
+Application

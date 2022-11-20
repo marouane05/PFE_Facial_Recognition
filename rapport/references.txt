@@ -10,13 +10,23 @@ Ahonen, Timo, Abdenour Hadid, and Matti Pietikäinen. “Face recognition with l
 LBPH OpenCV: https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#local-binary-patterns-histograms
 Local Binary Patterns: http://www.scholarpedia.org/article/Local_Binary_Patterns
 
-
-
+****************
+diff cnn rnn 
+https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 
 
 ************
 titre : 1= 16
-
+titre 2 = 13
+titre 3 = 11
+*************************
+Remarque : présentation du milieu d'étude * 
+solution proposés au niveau de la recherche 
+utilisation de l'article 
+étude comparable (optionelle kdb)
+annexes (algo, cnn, point nodaux)
+correction 
+*************************
 
 
 
